@@ -1,0 +1,21 @@
+{
+  "name": "countrydetail",
+  "version": "1.0.0",
+  "description": "Shows some general details of all the countries.It also ghows bing maps. It has search functionality.",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarsh27april/CountryDetail.git"
+  },
+  "author": "Adarsh Kumar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adarsh27april/CountryDetail/issues"
+  },
+  "homepage": "https://github.com/adarsh27april/CountryDetail#readme",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}

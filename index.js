@@ -43,7 +43,7 @@ let stack2 = Matter.Composites.stack(650, 20, 4, 4, 0, 0, (x, y) => {
 })
 
 
-let xBall = 150, yBall = 200;
+let xBall = 250, yBall = 200;
 let ball = Matter.Bodies.circle(xBall, yBall, 20);
 let sling = Matter.Constraint.create({
     pointA: { x: xBall, y: yBall },
